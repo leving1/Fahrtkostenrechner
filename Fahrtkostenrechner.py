@@ -1,5 +1,3 @@
-#API KEY: 5b3ce3597851110001cf6248cf56f374d7f14bdba928b87f5caece16
-#API KEY Adress to Coordiantes: 6bd072af2b394258b70cb1923811cf25
 #Optional: Autocomplete
 #Arbeitstage pro Jahr werden noch nicht berücksichtigt?
 
